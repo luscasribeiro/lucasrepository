@@ -1,4 +1,7 @@
-<h1>Hello World, sou Lucas Ribeiro</h1> 
+<h1>Hello World, sou Lucas Ribeiro</h1>
+- Desenvolvedor Web em formação 
+- Estudante de Análise e Desenvolvimento de Sistemas
+- Entusiasta e apaixanado por tecnologia e games
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
